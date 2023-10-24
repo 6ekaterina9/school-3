@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'MSB';
+    src: url(../fonts/monserrat/Montserrat-SemiBold.ttf);
+    font-weight:600 ;
+}
+@font-face {
+    font-family: 'MB';
+    src: url(../fonts/monserrat/Montserrat-Bold.ttf);
+    font-weight:700 ;
+}@font-face {
+    font-family: 'MEB';
+    src: url(../fonts/monserrat/Montserrat-ExtraBold.ttf);
+    font-weight:800 ;
+}@font-face {
+    font-family: 'MM';
+    src: url(../fonts/monserrat/Montserrat-Medium.ttf);
+    font-weight:500 ;
+}
+@font-face {
+    font-family: 'MR';
+    src: url(../fonts/monserrat/Montserrat-Regular.ttf);
+    font-weight:400 ;
+}
+@font-face {
+    font-family: 'RR';
+    src: url(../fonts/roboto/Roboto-Regular.ttf);
+    font-weight:400 ;
+}
